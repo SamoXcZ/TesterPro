@@ -1,4 +1,4 @@
-# LoadMaster
+# TesterPro
 
 > A powerful and elegant iOS load testing tool for developers.
 
